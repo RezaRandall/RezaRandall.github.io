@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgb(254, 255, 196);
+}
+
+#about {
+  padding-top: 2rem;
+}
+
+#project {
+  background-color: #d0ecff;
+}
+
+#contact {
+  background-color: #fff !important;
+}
+.icon-twitter2:before {
+  content: "\ea7d";
+}
